@@ -1,5 +1,9 @@
-This rig post on: https://github.com/Chunk7w/GieGie-Bicycle
+# GieGie™ Electric Bicycle
+
+This rig released on: https://github.com/Chunk7w/GieGie-Bicycle
+
 Modeled by [孤军奋战回锅又](https://space.bilibili.com/3187710)
+
 Post & Rigging by [Chunk7](https://blog.chunk7.ml/)
 
 This pack is distributed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license.
@@ -15,8 +19,12 @@ If you want to simply create a texture with more different colors,
 
 ---
 
+# GieGie™ 小电驴
+
 模型发布地址: https://github.com/Chunk7w/GieGie-Bicycle
+
 模型制作 [孤军奋战回锅又](https://space.bilibili.com/3187710)
+
 预制整理 & 发布 [Chunk7](https://blog.chunk7.ml/)
 
 本模型包遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 协议发布，请按协议要求在醒目的位置进行署名。
