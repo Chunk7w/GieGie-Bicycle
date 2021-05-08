@@ -12,7 +12,7 @@
 * 模型制作: [孤军奋战回锅又](https://space.bilibili.com/3187710)
 * 预制整理 & 发布: [Chunk7](https://blog.chunk7.ml/)
 
-本模型包遵循 **AGPL-3.0** 协议发布，请依照协议要求，合理使用本模型包。若用于视频制作，则必须在视频的醒目位置活视频简介中著名版权信息。
+本模型包遵循 **AGPL-3.0** 协议发布，请依照协议要求，合理使用本模型包。若用于视频制作，则必须在视频的醒目位置或在视频简介中著名版权信息。
 
 将 `giegie_bicycle` 文件夹放入 `.minecraft\config\chameleon\models` 目录下，并确认您已经安装了 Chameleon Mod, GeckoLib 3.0 以及 Blockbuster Mod 及其必要组件，即可顺利使用本模型。
 
