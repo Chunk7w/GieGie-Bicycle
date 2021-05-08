@@ -4,7 +4,8 @@
 
 ### 一个适用于 Blockbuster Mod 的模型包，基于 Blockbench、GeckoLib 以及 Chameleon Mod 实现
 
-[![](https://img.shields.io/github/license/Chunk7w/GieGie-Bicycle?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0.zh-cn.html) [![](https://img.shields.io/badge/Applicable%20to-Blockbuster%20mod-lightgrey?style=for-the-badge)](https://github.com/mchorse/blockbuster)
+[![](https://img.shields.io/badge/LICENSE-AGPL--3.0-orange?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0.zh-cn.html)
+[![](https://img.shields.io/badge/Applicable%20to-Blockbuster%20mod-lightgrey?style=for-the-badge)](https://github.com/mchorse/blockbuster)
 
 #### 模型发布地址: https://github.com/Chunk7w/GieGie-Bicycle
 
