@@ -19,11 +19,11 @@
 其中 `行走`、`飞行`、`冲刺` 动作已设置车轮滚动以及车身上下震动的动画。
 
 如果你需要以一种简单的方式创建不同颜色的材质，
-- 打开 GIEGIE_SkinRig.psd (需要使用 Photoshop)。
+- 打开 `GIEGIE_SkinRig.psd` (需要使用 Photoshop)。
 - 按住 `Ctrl` 键的同时选择 `Color` 图层的蒙版，即可选中需要更改颜色的部分。
 - 在拾色器中调好颜色，然后按下 `Alt + Del` 填充前景色即可。
 
----
+
 
 # GieGie™ Electric Bicycle
 
@@ -41,6 +41,14 @@ Place the `giegie_bicycle` folder in the `.minecraft\config\chameleon\models` di
 The `Running`, `Flying`, and `Sprinting` movements are animated with the wheels rolling and the body vibrating up and down.
 
 If you want to simply create a texture with more different colors,
-- Open GIEGIE_SkinRig.psd (Photoshop is required).
+- Open `GIEGIE_SkinRig.psd` (Photoshop is required).
 - Holding `Ctrl` while selecting the `Color` layer's mask to select the part that needs to be changed.
 - Select the color you want with the color picker, then Press `Alt + Del` to fill the foreground color.
+
+### 开发计划 - Develpoment Plan
+以下是未来可能会完善的一些功能 ~~画饼环节~~
+- [ ] 修改车轮滚动时长，以适配停车动作
+- [ ] 自适应车轮滚动速度（可能需要基于 OBJ 实现）
+- [ ] 车灯发光与控制
+- [ ] 车头转向
+- [ ] ...
