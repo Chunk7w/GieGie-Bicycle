@@ -6,6 +6,7 @@
 
 [![](https://img.shields.io/badge/LICENSE-CC%20BY--SA%204.0-orange?style=for-the-badge)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![](https://img.shields.io/badge/Applicable%20to-Blockbuster%20mod-lightgrey?style=for-the-badge)](https://github.com/mchorse/blockbuster)
+[![](https://img.shields.io/badge/下载%20--%20RELEASE-%20v0.4--beta-green?style=for-the-badge&logo=Git-LFS)](https://github.com/Chunk7w/GieGie-Bicycle/releases)
 
 #### 模型发布地址: https://github.com/Chunk7w/GieGie-Bicycle
 
