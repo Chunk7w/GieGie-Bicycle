@@ -10,7 +10,7 @@
 
 #### 模型发布地址: https://github.com/Chunk7w/GieGie-Bicycle
 
-* 模型制作: [孤军奋战回锅又](https://space.bilibili.com/3187710)
+* 模型制作: 孤军奋战回锅又 - [bilibili](https://space.bilibili.com/3187710) / [Twitter](https://twitter.com/seven_chad)
 * 预制整理 & 发布: [Chunk7](https://blog.chunk7.ml/)
 
 本模型包遵循 **CC BY-SA 4.0** 协议发布，请依照协议要求，合理使用本模型包。若用于视频制作，则必须在视频的醒目位置或在视频简介中注明版权信息。
@@ -32,7 +32,7 @@
 
 #### This rig released on: https://github.com/Chunk7w/GieGie-Bicycle
 
-* Modeled by [孤军奋战回锅又](https://space.bilibili.com/3187710)
+* Modeled by [seven_chad](https://twitter.com/seven_chad)
 * Post & Rigging by [Chunk7](https://blog.chunk7.ml/)
 
 This rig is distributed under the **CC BY-SA 4.0** license. You must credit this rig pack in your video's description.
